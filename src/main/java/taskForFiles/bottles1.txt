@@ -1,0 +1,4 @@
+1 Wine  0.75 Glass
+2 Juice 0.25 Metal
+3 Beer  0.5  Metal
+4 Water 1    Plastic
