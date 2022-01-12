@@ -1,7 +1,6 @@
 package taskForEnums;
 
 public enum YEAR_MONTH {
-    January, February, March, April, May,
-    June, July, August, September,
-    October, November, December
+    JANUARY, FEBRUARY, MARCH, APRIL, MAY, JUNE, JULY, AUGUST, SEPTEMBER,
+    OCTOBER, NOVEMBER, DECEMBER;
 }
